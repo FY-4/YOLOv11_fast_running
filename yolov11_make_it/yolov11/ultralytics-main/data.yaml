@@ -1,0 +1,13 @@
+#path: ../datasets/images  # 数据集所在路径
+train: F:\YOLO\yolov11\ultralytics-main\datasets\images\train # 数据集路径下的train.txt
+val: F:\YOLO\yolov11\ultralytics-main\datasets\images\val  # 数据集路径下的val.txt
+test: F:\YOLO\yolov11\ultralytics-main\datasets\images\test  # 数据集路径下的test.txt
+
+# Classes
+names:
+  0: 其他垃圾
+  1: 可回收垃圾
+  2: 厨余垃圾
+  3: 其他垃圾
+
+
